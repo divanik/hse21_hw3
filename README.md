@@ -2,8 +2,8 @@
 
 Ссылки на первую и вторую часть дз:
 
-https://colab.research.google.com/drive/1kxUDfJm7ev9lCCWModYWixFcRTg7X1PP#scrollTo=EoOoe7Bpzqmp
-https://colab.research.google.com/drive/1tOjZ_7_mUbpHUPe1LuW2z-FwuwbNsai6#scrollTo=T1hYPFgbNcGm
+https://colab.research.google.com/drive/1kxUDfJm7ev9lCCWModYWixFcRTg7X1PP?usp=sharing
+https://colab.research.google.com/drive/1tOjZ_7_mUbpHUPe1LuW2z-FwuwbNsai6?usp=sharing
 
 Теперь к статистике из multiqc:
 
